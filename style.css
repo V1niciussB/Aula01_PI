@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo {
+    margin: -5px;
+    color: #8b3fd2;
+    background-color: #9f9fcb;
+}
+
+.subTitulo{
+    color: #50d650;
+    background-color: #c3ffc3;
+}
